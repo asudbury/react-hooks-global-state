@@ -1,0 +1,22 @@
+{
+  "name": "react-hooks-usestore-global-state",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": ["react", "hooks", "usestore", "state", "global"],
+  "main": "src/index.js",
+  "dependencies": {
+    "eslint-plugin-react-hooks": "0.0.0",
+    "invariant": "2.2.4",
+    "react": "16.7.0-alpha.0 - next",
+    "react-dom": "16.7.0-alpha.0 - next",
+    "react-scripts": "2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
